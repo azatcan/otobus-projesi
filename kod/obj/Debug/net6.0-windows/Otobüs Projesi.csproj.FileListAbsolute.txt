@@ -1,0 +1,9 @@
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs Projesi.csproj.AssemblyReference.cache
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs_Projesi.Form1.resources
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs_Projesi.Kayıtformu.resources
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs_Projesi.Sefer.resources
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs Projesi.csproj.GenerateResource.cache
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs Projesi.AssemblyInfoInputs.cache
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs Projesi.AssemblyInfo.cs
+C:\Users\azatc\OneDrive\Masaüstü\Ödevler\otobüs projesi\kod\obj\Debug\net6.0-windows\Otobüs Projesi.csproj.CoreCompileInputs.cache
